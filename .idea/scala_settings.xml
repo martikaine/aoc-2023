@@ -17,4 +17,7 @@
     </option>
     <option name="scala3DisclaimerShown" value="true" />
   </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="makeBeforeRun" value="true" />
+  </component>
 </project>
